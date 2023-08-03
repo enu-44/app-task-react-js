@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.3d5c8c19.css",
-    "main.js": "./static/js/main.80e865ed.js",
-    "index.html": "./index.html",
-    "static/media/delete.svg": "./static/media/delete.d9c7e0eeb3f573572e1521b7b69ed33e.svg",
-    "static/media/check.svg": "./static/media/check.af03c9a6a0411e40578874e6f00e807b.svg",
-    "main.3d5c8c19.css.map": "./static/css/main.3d5c8c19.css.map",
-    "main.80e865ed.js.map": "./static/js/main.80e865ed.js.map"
+    "main.css": "/app-task-react-js/static/css/main.3d5c8c19.css",
+    "main.js": "/app-task-react-js/static/js/main.39417382.js",
+    "index.html": "/app-task-react-js/index.html",
+    "static/media/delete.svg": "/app-task-react-js/static/media/delete.d9c7e0eeb3f573572e1521b7b69ed33e.svg",
+    "static/media/check.svg": "/app-task-react-js/static/media/check.af03c9a6a0411e40578874e6f00e807b.svg",
+    "main.3d5c8c19.css.map": "/app-task-react-js/static/css/main.3d5c8c19.css.map",
+    "main.39417382.js.map": "/app-task-react-js/static/js/main.39417382.js.map"
   },
   "entrypoints": [
     "static/css/main.3d5c8c19.css",
-    "static/js/main.80e865ed.js"
+    "static/js/main.39417382.js"
   ]
 }
